@@ -1,0 +1,2 @@
+data save location:~/FCC/senior_project/
+refresh time(sec):7200

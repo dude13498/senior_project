@@ -1,0 +1,631 @@
+Date collected,Location,Provider,Reports,Source,Status,Time collected
+Thu 18 Jul 2019,"Dallas, TX",Frontier,280,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",Frontier,211,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Frontier,185,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Frontier,111,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",Frontier,103,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",Frontier,103,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",Frontier,72,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Frontier,44,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Whittier, CA",Frontier,38,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",Frontier,36,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Irving, TX",Frontier,33,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesquite, TX",Frontier,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Frontier,31,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Riverview, FL",Frontier,30,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",Frontier,30,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",Frontier,29,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sarasota, FL",Frontier,28,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",Frontier,27,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Wayne, IN",Frontier,27,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",Frontier,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Frontier,25,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",Frontier,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Norwalk, CA",Frontier,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Riverside, CA",Frontier,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Lauderdale, FL",Frontier,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Garland, TX",Frontier,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Allen, TX",Frontier,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",Frontier,22,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Irvine, CA",Frontier,20,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Santa Ana, CA",Frontier,20,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",Mediacom,551,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Mediacom,522,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Des Moines, IA",Mediacom,248,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",Mediacom,213,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Mediacom,186,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Cedar Rapids, IA",Mediacom,161,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",Mediacom,90,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"New Orleans, LA",Mediacom,88,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Camanche, IA",Mediacom,78,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"West Des Moines, IA",Mediacom,78,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Iowa City, IA",Mediacom,76,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Birmingham, AL",Mediacom,76,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Urbana, IL",Mediacom,75,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Saint Paul, MN",Mediacom,68,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Mediacom,59,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Columbus, GA",Mediacom,58,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Mediacom,57,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Ankeny, IA",Mediacom,54,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"De Witt, IA",Mediacom,53,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",Mediacom,49,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Milton, FL",Mediacom,47,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Ottumwa, IA",Mediacom,43,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",Mediacom,42,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Council Bluffs, IA",Mediacom,41,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Bettendorf, IA",Mediacom,41,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Davenport, IA",Mediacom,40,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Kent, IL",Mediacom,39,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Mediacom,38,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Dubuque, IA",Mediacom,38,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Mediacom,34,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Cricket-Wireless,20,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Cricket-Wireless,18,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Cricket-Wireless,16,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Cricket-Wireless,14,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Galveston, TX",Cricket-Wireless,11,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Mission, TX",Cricket-Wireless,8,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Newberry, SC",Cricket-Wireless,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Williston, ND",Cricket-Wireless,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Minot, ND",Cricket-Wireless,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",Cricket-Wireless,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Corpus Christi, TX",Cricket-Wireless,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Cricket-Wireless,4,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Pharr, TX",Cricket-Wireless,4,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Nashville, TN",Cricket-Wireless,4,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Tempe, AZ",Cricket-Wireless,4,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Ashtabula, OH",Cricket-Wireless,4,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Compton, CA",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Albuquerque, NM",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Beeville, TX",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Cresson, TX",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Benton, AR",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Bishop, TX",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",Cricket-Wireless,3,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Sprint,140,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Sprint,134,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Sprint,99,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Sprint,87,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Sprint,76,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Sprint,72,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",Sprint,71,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Sprint,67,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Sprint,65,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",Sprint,51,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",Sprint,49,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",Sprint,45,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",Sprint,37,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",Sprint,35,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Westland, MI",Sprint,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",Sprint,31,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",Sprint,29,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",Sprint,28,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Sprint,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",Sprint,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brazil, IN",Sprint,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Upper Marlboro, MD",Sprint,22,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Diego, CA",Sprint,21,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",Sprint,21,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Columbus, OH",Sprint,20,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Farmington, MI",Sprint,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",Sprint,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",Sprint,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",Sprint,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",Sprint,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",time-warner-cable,2425,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",time-warner-cable,2394,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",time-warner-cable,2381,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",time-warner-cable,1511,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",time-warner-cable,1443,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",time-warner-cable,1316,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",time-warner-cable,1256,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",time-warner-cable,984,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",time-warner-cable,782,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",time-warner-cable,665,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",time-warner-cable,609,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",time-warner-cable,605,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",time-warner-cable,584,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",time-warner-cable,482,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",time-warner-cable,472,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",time-warner-cable,464,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dayton, OH",time-warner-cable,456,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Raleigh, NC",time-warner-cable,414,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Buffalo, NY",time-warner-cable,395,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",time-warner-cable,364,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",time-warner-cable,333,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Louisville, KY",time-warner-cable,328,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cincinnati, OH",time-warner-cable,328,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Akron, OH",time-warner-cable,327,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",time-warner-cable,324,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",time-warner-cable,313,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Honolulu, HI",time-warner-cable,304,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",time-warner-cable,279,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",time-warner-cable,272,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",time-warner-cable,263,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Google-Fiber,13,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Google-Fiber,10,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Google-Fiber,10,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Google-Fiber,10,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, KS",Google-Fiber,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Olathe, KS",Google-Fiber,7,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",Google-Fiber,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",Google-Fiber,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Overland Park, KS",Google-Fiber,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Lee's Summit, MO",Google-Fiber,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",Google-Fiber,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Lenexa, KS",Google-Fiber,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",Google-Fiber,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Independence, MO",Google-Fiber,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Raleigh, NC",Google-Fiber,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Morrisville, NC",Google-Fiber,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Salt Lake City, UT",Google-Fiber,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Irvine, CA",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Shawnee, KS",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Knoxville, TN",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Lockport, NY",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Durham, NC",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Blue Springs, MO",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Marietta, GA",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Prairie Village, KS",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Grandview, MO",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Greensboro, NC",Google-Fiber,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Manitowoc, WI",US-cellular,9,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cedar Rapids, IA",US-cellular,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Camanche, IA",US-cellular,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Rumford, ME",US-cellular,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Berkeley Springs, WV",US-cellular,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Grants Pass, OR",US-cellular,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Milwaukee, WI",US-cellular,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Waterloo, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Pella, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Madison, WI",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Urbandale, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Asheville, NC",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Clinton, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Ottumwa, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Des Moines, IA",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Medford, OR",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Janesville, WI",US-cellular,2,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Robersonville, NC",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cecil, WI",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Clintonville, WI",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Frostburg, MD",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Sylva, NC",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Charles City, IA",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Watertown, WI",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Durant, OK",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Tuskahoma, OK",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"De Witt, IA",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Galena, IL",US-cellular,1,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",RCN,162,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",RCN,100,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",RCN,84,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",RCN,78,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",RCN,67,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",RCN,42,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Bethlehem, PA",RCN,24,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Allentown, PA",RCN,23,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Silver Spring, MD",RCN,19,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Greenbelt, MD",RCN,14,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Boston, MA",RCN,12,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Columbia, MD",RCN,11,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Astoria, NY",RCN,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Easton, PA",RCN,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Somerville, MA",RCN,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Waltham, MA",RCN,7,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Brookline, MA",RCN,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Macungie, PA",RCN,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Northampton, PA",RCN,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Providence, RI",RCN,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cambridge, MA",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Upper Darby, PA",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Urbana, IL",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Roxbury, MA",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Plymouth Meeting, PA",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Mattapan, MA",RCN,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Watertown, MA",RCN,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Woodside, NY",RCN,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cementon, PA",RCN,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Verizon,647,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Verizon,512,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",Verizon,393,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",Verizon,392,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",Verizon,180,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",Verizon,148,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Silver Spring, MD",Verizon,145,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Verizon,141,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Verizon,136,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Greenbelt, MD",Verizon,132,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Verizon,119,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, VA",Verizon,119,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",Verizon,115,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Verizon,114,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",Verizon,113,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Verizon,102,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Richmond, VA",Verizon,95,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Alexandria, VA",Verizon,93,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Verizon,89,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Virginia Beach, VA",Verizon,89,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",Verizon,89,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",Verizon,84,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Newark, NJ",Verizon,77,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Durham, NC",Verizon,62,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Hyattsville, MD",Verizon,59,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Hillsdale, MI",Verizon,59,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Buffalo, NY",Verizon,56,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",Verizon,47,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Upper Marlboro, MD",Verizon,46,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Salt Lake City, UT",Verizon,46,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",MetroPCS,20,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",MetroPCS,20,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",MetroPCS,19,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Grand Junction, CO",MetroPCS,18,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",MetroPCS,18,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",MetroPCS,18,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",MetroPCS,18,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",MetroPCS,17,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",MetroPCS,17,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Irving, TX",MetroPCS,13,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",MetroPCS,12,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",MetroPCS,11,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",MetroPCS,11,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",MetroPCS,9,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",MetroPCS,9,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",MetroPCS,9,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",MetroPCS,8,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Jacksonville, FL",MetroPCS,8,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",MetroPCS,8,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",MetroPCS,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Oklahoma City, OK",MetroPCS,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Marathon, FL",MetroPCS,7,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",MetroPCS,6,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Augusta, GA",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Memphis, TN",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Federal Way, WA",MetroPCS,5,Is the service down,  Some problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, VA",Atlantic-Broadband,21,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",Atlantic-Broadband,21,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Atlantic-Broadband,20,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Alexandria, VA",Atlantic-Broadband,16,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",Atlantic-Broadband,15,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",Atlantic-Broadband,13,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",Atlantic-Broadband,13,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",Atlantic-Broadband,12,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Warren, PA",Atlantic-Broadband,12,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Aiken, SC",Atlantic-Broadband,11,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Boston, MA",Atlantic-Broadband,10,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Greensburg, PA",Atlantic-Broadband,10,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Springfield, VA",Atlantic-Broadband,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Hampstead, MD",Atlantic-Broadband,8,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Altoona, PA",Atlantic-Broadband,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Falls Church, VA",Atlantic-Broadband,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami Beach, FL",Atlantic-Broadband,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"King George, VA",Atlantic-Broadband,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Woodbridge, VA",Atlantic-Broadband,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Virginia Beach, VA",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Vienna, VA",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Lexington Park, MD",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Pawtucket, RI",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Cambridge, MA",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Glen Burnie, MD",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Silver Spring, MD",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Pittsburgh, PA",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Barrington, NH",Atlantic-Broadband,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",DirecTV,57,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",DirecTV,50,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",DirecTV,41,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",DirecTV,38,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",DirecTV,33,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",DirecTV,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",DirecTV,29,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",DirecTV,29,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",DirecTV,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",DirecTV,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",DirecTV,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Jose, CA",DirecTV,20,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Diego, CA",DirecTV,17,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",DirecTV,16,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",DirecTV,16,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",DirecTV,16,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Albuquerque, NM",DirecTV,15,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Colorado Springs, CO",DirecTV,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tulsa, OK",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tucson, AZ",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Lauderdale, FL",DirecTV,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",DirecTV,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Des Moines, IA",DirecTV,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Rochester, NY",DirecTV,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",DirecTV,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Suddenlink,737,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Suddenlink,538,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Allen, TX",Suddenlink,103,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesquite, TX",Suddenlink,92,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",Suddenlink,89,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",Suddenlink,86,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Oklahoma City, OK",Suddenlink,68,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",Suddenlink,68,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Garland, TX",Suddenlink,67,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Memphis, TN",Suddenlink,64,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Suddenlink,63,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Suddenlink,56,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Greenbelt, MD",Suddenlink,56,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Amarillo, TX",Suddenlink,50,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charleston, WV",Suddenlink,48,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Flagstaff, AZ",Suddenlink,45,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Suddenlink,40,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",Suddenlink,36,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",Suddenlink,35,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Irving, TX",Suddenlink,34,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Greensburg, PA",Suddenlink,33,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Suddenlink,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",Suddenlink,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",Suddenlink,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",Suddenlink,29,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"College Station, TX",Suddenlink,27,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Paris, TX",Suddenlink,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Silver Spring, MD",Suddenlink,25,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tyler, TX",Suddenlink,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",Suddenlink,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Dish-Network,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Dish-Network,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Dish-Network,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",Dish-Network,8,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Dish-Network,5,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",Dish-Network,5,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Gresham, OR",Dish-Network,4,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",Dish-Network,4,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Colville, WA",Dish-Network,4,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Albuquerque, NM",Dish-Network,4,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",Dish-Network,4,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Montrose, CO",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Colorado Springs, CO",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Eugene, OR",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Salt Lake City, UT",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesa, AZ",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Des Moines, IA",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Spokane, WA",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Columbus, OH",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Danville, CA",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tacoma, WA",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Meridian, ID",Dish-Network,3,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",Dish-Network,2,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Grand Junction, CO",Dish-Network,2,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Nashville, TN",Dish-Network,2,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Red Oak, TX",Dish-Network,2,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Long Beach, CA",T-Mobile,105,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",T-Mobile,95,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",T-Mobile,81,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",T-Mobile,76,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",T-Mobile,52,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",T-Mobile,51,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",T-Mobile,50,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",T-Mobile,49,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",T-Mobile,45,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",T-Mobile,42,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",T-Mobile,41,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",T-Mobile,40,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",T-Mobile,39,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",T-Mobile,32,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",T-Mobile,31,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",T-Mobile,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",T-Mobile,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",T-Mobile,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",T-Mobile,25,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Diego, CA",T-Mobile,24,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",T-Mobile,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",T-Mobile,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",T-Mobile,22,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",T-Mobile,21,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Francisco, CA",T-Mobile,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",T-Mobile,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Manhattan, NY",T-Mobile,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Saint Paul, MN",T-Mobile,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Jose, CA",T-Mobile,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",T-Mobile,17,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",optimum-cablevision,822,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",optimum-cablevision,386,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",optimum-cablevision,301,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Newark, NJ",optimum-cablevision,92,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Edison, NJ",optimum-cablevision,37,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",optimum-cablevision,26,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Flushing, NY",optimum-cablevision,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",optimum-cablevision,19,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Teaneck, NJ",optimum-cablevision,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Madison, NJ",optimum-cablevision,17,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New Rochelle, NY",optimum-cablevision,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Hoboken, NJ",optimum-cablevision,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Norwalk, CT",optimum-cablevision,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Clifton, NJ",optimum-cablevision,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Jersey City, NJ",optimum-cablevision,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Livingston, NJ",optimum-cablevision,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Bronx, NY",optimum-cablevision,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Secaucus, NJ",optimum-cablevision,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Wayne, NJ",optimum-cablevision,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Stamford, CT",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Scotch Plains, NJ",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Belleville, NJ",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Yonkers, NY",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"East Rutherford, NJ",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Englishtown, NJ",optimum-cablevision,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Baltimore, MD",optimum-cablevision,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Morris Plains, NJ",optimum-cablevision,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Albany, NY",optimum-cablevision,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",optimum-cablevision,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Levittown, NY",optimum-cablevision,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",charter-communications,2425,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",charter-communications,2394,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",charter-communications,2381,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",charter-communications,1511,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",charter-communications,1443,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",charter-communications,1316,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",charter-communications,1256,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",charter-communications,984,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",charter-communications,782,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tampa, FL",charter-communications,665,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",charter-communications,609,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",charter-communications,605,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",charter-communications,584,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",charter-communications,482,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",charter-communications,472,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",charter-communications,464,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dayton, OH",charter-communications,456,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Raleigh, NC",charter-communications,414,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Buffalo, NY",charter-communications,395,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",charter-communications,364,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",charter-communications,333,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Louisville, KY",charter-communications,328,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cincinnati, OH",charter-communications,328,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Akron, OH",charter-communications,327,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"The Bronx, NY",charter-communications,324,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",charter-communications,313,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Honolulu, HI",charter-communications,304,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",charter-communications,279,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",charter-communications,272,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",charter-communications,263,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",att,1242,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",att,877,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",att,683,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",att,666,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",att,338,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",att,314,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",att,203,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Miami, FL",att,201,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",att,192,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesquite, TX",att,181,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",att,165,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Allen, TX",att,157,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",att,153,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",att,147,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",att,140,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Detroit, MI",att,139,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Hayward, CA",att,130,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",att,127,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"New York City, NY",att,113,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Roseville, MI",att,112,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Oklahoma City, OK",att,110,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",att,109,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sacramento, CA",att,108,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Lauderdale, FL",att,98,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Conway, AR",att,98,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"San Francisco, CA",att,96,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Arlington, TX",att,93,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Nashville, TN",att,92,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Garland, TX",att,92,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",att,90,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",Cable-ONE,17,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",Cable-ONE,13,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Salt Lake City, UT",Cable-ONE,12,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",Cable-ONE,11,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Albuquerque, NM",Cable-ONE,9,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",Cable-ONE,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Lakewood, CA",Cable-ONE,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Pocatello, ID",Cable-ONE,6,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Idaho Falls, ID",Cable-ONE,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",Cable-ONE,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"San Antonio, TX",Cable-ONE,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Federal Way, WA",Cable-ONE,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Sandy, UT",Cable-ONE,5,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Oklahoma City, OK",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Meridian, ID",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"El Paso, TX",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Herriman, UT",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Fort Worth, TX",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesquite, TX",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Caldwell, ID",Cable-ONE,4,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Rio Rancho, NM",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Sioux City, IA",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Willow Spring, AZ",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Prescott, AZ",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Garland, TX",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"West Des Moines, IA",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Twin Falls, ID",Cable-ONE,3,Is the service down,  No problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",windstream,146,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",windstream,50,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",windstream,38,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",windstream,30,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Lincoln, NE",windstream,23,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cleveland, OH",windstream,21,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",windstream,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Louisville, KY",windstream,18,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",windstream,15,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",windstream,15,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Washington, D.C., DC",windstream,14,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",windstream,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Brooklyn, NY",windstream,13,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Austin, TX",windstream,12,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Roseville, MI",windstream,11,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Jefferson, GA",windstream,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Philadelphia, PA",windstream,10,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Greenbelt, MD",windstream,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Manlius, NY",windstream,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Decatur, GA",windstream,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Nicholasville, KY",windstream,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Canton, GA",windstream,9,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Lexington, KY",windstream,8,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Newberry, SC",windstream,8,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Indianapolis, IN",windstream,8,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cedar Rapids, IA",windstream,8,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Camanche, IA",windstream,7,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Jamestown, NY",windstream,7,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Snellville, GA",windstream,7,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Birmingham, AL",windstream,7,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Denver, CO",CenturyLink,341,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Seattle, WA",CenturyLink,263,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Omaha, NE",CenturyLink,242,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Los Angeles, CA",CenturyLink,219,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Chicago, IL",CenturyLink,216,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Portland, OR",CenturyLink,203,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Dallas, TX",CenturyLink,195,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Salt Lake City, UT",CenturyLink,191,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Minneapolis, MN",CenturyLink,189,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Phoenix, AZ",CenturyLink,168,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Las Vegas, NV",CenturyLink,132,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Des Moines, IA",CenturyLink,95,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Orlando, FL",CenturyLink,95,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Saint Paul, MN",CenturyLink,85,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Albuquerque, NM",CenturyLink,81,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Atlanta, GA",CenturyLink,80,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Charlotte, NC",CenturyLink,69,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Herriman, UT",CenturyLink,47,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Federal Way, WA",CenturyLink,46,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesquite, TX",CenturyLink,40,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Kansas City, MO",CenturyLink,39,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Houston, TX",CenturyLink,39,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Cedar Rapids, IA",CenturyLink,38,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Boise, ID",CenturyLink,37,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Allen, TX",CenturyLink,36,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Lakewood, CA",CenturyLink,36,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Tacoma, WA",CenturyLink,36,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Sandy, UT",CenturyLink,34,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"St. Louis, MO",CenturyLink,33,Is the service down,  Problems detected ,14:16:39
+Thu 18 Jul 2019,"Mesa, AZ",CenturyLink,33,Is the service down,  Problems detected ,14:16:39
